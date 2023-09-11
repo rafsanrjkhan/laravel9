@@ -1,0 +1,1 @@
+<h1>Hello Laravel 9</h1>
